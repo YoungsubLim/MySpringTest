@@ -13,6 +13,6 @@
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a>
-		임영섭 입니다. 수정했음 333
+		임영섭 입니다. 수정했음  444 => 4월 13일
 	</body>
 </html>
